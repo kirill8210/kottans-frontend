@@ -5,4 +5,4 @@ learngitbranching.js.org крута штука)
 
 ##2 Linux, Command Line, HTTP Tools
 
-Починаю вичати
+Починаю вивчати
