@@ -19,4 +19,4 @@ learngitbranching.js.org крута штука)<br>
 Статті о HTTP змістовні, без води))<br>
 Додав до закладок, щоб до співбесіди бути готовим!
 
-###To be continued
+### To be continued
