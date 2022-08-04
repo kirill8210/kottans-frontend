@@ -1,8 +1,17 @@
 ##1 Git та GitHub
-
-learngitbranching.js.org крута штука)
+learngitbranching.js.org крута штука)<br>
 Дуже допомогло у виконанні домашнього завдання
+##2 Linux CLI, and HTTP
+Вот і ближчи познайомився з Linux.<br> 
+Команд дуже багато, але розумію, тільки практика допоможе іх запам'ятати))
+### Quiz 1
+![quiz1](/task_linux_cli/scr1.png)
+### Quiz 1
+![quiz2](/task_linux_cli/scr2.png)
+### Quiz 1
+![quiz3](/task_linux_cli/scr3.png)
+### Quiz 1
+![quiz4](/task_linux_cli/scr4.png)
 
-##2 Linux, Command Line, HTTP Tools
-
-Починаю вивчати
+Статті о HTTP змістовні, без води))<br>
+Додав до закладок, щоб до співбесіди бути готовим!
