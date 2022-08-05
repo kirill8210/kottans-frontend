@@ -1,9 +1,9 @@
-## 1 Git та GitHub
+## Git та GitHub
 
 learngitbranching.js.org крута штука)<br>
 Дуже допомогло у виконанні домашнього завдання
 
-## 2 Linux CLI, and HTTP
+## Linux CLI, and HTTP
 
 Вот і ближчи познайомився з Linux.<br> 
 Команд дуже багато, але розумію, тільки практика допоможе іх запам'ятати))
@@ -18,5 +18,20 @@ learngitbranching.js.org крута штука)<br>
 
 Статті о HTTP змістовні, без води))<br>
 Додав до закладок, щоб до співбесіди бути готовим!
+
+## Git Collaboration
+
+Пройшов повністю learngitbranching.js.org<br>
+Розширив знання про Git. Зрозумів, що окрім<br>
+- git add .
+- git commit
+- git push
+
+є ще дуже багато різних штук, котрі просто необхідні для співпраці у команді. 
+
+### Scr 1
+![quiz1](/task_git_collaboration/scr1.png)
+### Scr 2
+![quiz2](/task_git_collaboration/scr2.png)
 
 ### To be continued
