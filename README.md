@@ -47,4 +47,18 @@ learngitbranching.js.org крута штука)<br>
 ### Scr 4
 ![quiz2](/task_html_css_intro/scr4.png)
 
+## Responsive Web Design
+
+Я вважаю всі сайти та додатки повинні мати адаптивний дизайн, тому що 70% користувачів використовують телефони та планшети.
+Флекси дуже зручний інструмент для адаптивності. 
+Раніше використовував Bootstrap, але зараз використовую флекси.
+А медіа-запроси залишив <576px, ≥576px, ≥768px, ≥992px, ≥1200px.
+Grid зовсім не використовував, але пройшовши Grid Garden, зрозумів що складному дизайні краще Grid чим Flex. 
+
+### Flexbox Froggy
+![quiz1](/task_responsive_web_design/scr1.png)
+### Grid Garden
+![quiz2](/task_responsive_web_design/scr2.png)
+
+
 ### To be continued
