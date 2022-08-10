@@ -34,4 +34,17 @@ learngitbranching.js.org крута штука)<br>
 ### Scr 2
 ![quiz2](/task_git_collaboration/scr2.png)
 
+## Intro to HTML and CSS
+
+Із HTML та CSS добре знайом. Не пом'ятаю, коли в останнє Float користувался))
+
+### Scr 1
+![quiz1](/task_html_css_intro/scr1.png)
+### Scr 2
+![quiz2](/task_html_css_intro/scr2.png)
+### Scr 3
+![quiz1](/task_html_css_intro/scr3.png)
+### Scr 4
+![quiz2](/task_html_css_intro/scr4.png)
+
 ### To be continued
