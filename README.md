@@ -61,4 +61,21 @@ Grid зовсім не використовував, але пройшовши G
 ![quiz2](/task_responsive_web_design/scr2.png)
 
 
+## JS Basics
+
+Закріпив знання Basic JavaScript.
+
+Дуже сподобались задачі Algorithm Scripting Challenges. Витратив багато часу, але черпнув нові для себе методи деякі рішення.
+
+### Scr 1
+![quiz1](/task_js_basics/scr1.jpg)
+### Scr 2
+![quiz2](/task_js_basics/scr2.jpg)
+### Scr 3
+![quiz3](/task_js_basics/scr3.jpg)
+### Scr 4
+![quiz4](/task_js_basics/scr4.jpg)
+### Scr 4
+![quiz5](/task_js_basics/scr5.jpg)
+
 ### To be continued
