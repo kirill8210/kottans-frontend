@@ -78,4 +78,16 @@ Grid зовсім не використовував, але пройшовши G
 ### Scr 4
 ![quiz5](/task_js_basics/scr5.jpg)
 
+
+## DOM
+
+Пройшов тему js DOM. Зробив практичне завдання.
+
+### Scr 1
+![quiz1](/task_js_dom/scr2.jpg)
+### Scr 2
+![quiz2](/task_js_dom/scr1.jpg)
+
+
+
 ### To be continued
