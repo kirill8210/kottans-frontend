@@ -118,5 +118,5 @@ Grid зовсім не використовував, але пройшовши G
 [Demo](https://kirill8210.github.io/a-tiny-JS-world) |
 [Code base](https://github.com/kirill8210/a-tiny-JS-world)
 
-<br><br><br>
+<br>
 ### To be continued...
