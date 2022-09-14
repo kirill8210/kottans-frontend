@@ -89,10 +89,12 @@ Grid зовсім не використовував, але пройшовши G
 
 Поправктикувався із DOM.
 
-### Scr 1
+<details>
+<summary>Scr</summary>
+
 ![quiz1](/task_js_dom/scr2.jpg)
-### Scr 2
 ![quiz2](/task_js_dom/scr1.jpg)
+</details>
 
 ### practice
 [Demo](https://kirill8210.github.io/kottans_DOM/) |
