@@ -7,14 +7,14 @@ learngitbranching.js.org крута штука)<br>
 
 Вот і ближчи познайомився з Linux.<br> 
 Команд дуже багато, але розумію, тільки практика допоможе іх запам'ятати))
-### Quiz 1
-![quiz1](/task_linux_cli/scr1.png)
-### Quiz 2
-![quiz2](/task_linux_cli/scr2.png)
-### Quiz 3
-![quiz3](/task_linux_cli/scr3.png)
-### Quiz 4
-![quiz4](/task_linux_cli/scr4.png)
+<details>
+<summary>Screenshots</summary>
+
+![](/task_linux_cli/scr1.png)
+![](/task_linux_cli/scr2.png)
+![](/task_linux_cli/scr3.png)
+![](/task_linux_cli/scr4.png)
+</details>
 
 Статті о HTTP змістовні, без води))<br>
 Додав до закладок, щоб до співбесіди бути готовим!
@@ -29,23 +29,25 @@ learngitbranching.js.org крута штука)<br>
 
 є ще дуже багато різних штук, котрі необхідні для співпраці у команді. 
 
-### Scr 1
-![quiz1](/task_git_collaboration/scr1.png)
-### Scr 2
-![quiz2](/task_git_collaboration/scr2.png)
+<details>
+<summary>Screenshots</summary>
+
+![](/task_git_collaboration/scr1.png)
+![](/task_git_collaboration/scr2.png)
+</details>
 
 ## Intro to HTML and CSS
 
 Із HTML та CSS добре знайом. Не пом'ятаю, коли в останнє Float користувался))
 
-### Scr 1
-![quiz1](/task_html_css_intro/scr1.png)
-### Scr 2
-![quiz2](/task_html_css_intro/scr2.png)
-### Scr 3
-![quiz1](/task_html_css_intro/scr3.png)
-### Scr 4
-![quiz2](/task_html_css_intro/scr4.png)
+<details>
+<summary>Screenshots</summary>
+
+![](/task_html_css_intro/scr1.png)
+![](/task_html_css_intro/scr2.png)
+![](/task_html_css_intro/scr3.png)
+![](/task_html_css_intro/scr4.png)
+</details>
 
 ## Responsive Web Design
 
@@ -56,9 +58,20 @@ learngitbranching.js.org крута штука)<br>
 Grid зовсім не використовував, але пройшовши Grid Garden, зрозумів що складному дизайні краще Grid чим Flex. 
 
 ### Flexbox Froggy
-![quiz1](/task_responsive_web_design/scr1.png)
+
+<details>
+<summary>Screenshots</summary>
+
+![](/task_responsive_web_design/scr1.png)
+</details>
+
 ### Grid Garden
-![quiz2](/task_responsive_web_design/scr2.png)
+
+<details>
+<summary>Screenshots</summary>
+
+![](/task_responsive_web_design/scr2.png)
+</details>
 
 
 ## HTML & CSS Practice: Hooli-style Popup
@@ -73,27 +86,26 @@ Grid зовсім не використовував, але пройшовши G
 
 Дуже сподобались задачі Algorithm Scripting Challenges. Витратив багато часу, але черпнув нові для себе методи та деякі рішення.
 
-### Scr 1
-![quiz1](/task_js_basics/scr1.jpg)
-### Scr 2
-![quiz2](/task_js_basics/scr2.jpg)
-### Scr 3
-![quiz3](/task_js_basics/scr3.jpg)
-### Scr 4
-![quiz4](/task_js_basics/scr4.jpg)
-### Scr 4
-![quiz5](/task_js_basics/scr5.jpg)
+<details>
+<summary>Screenshots</summary>
 
+![](/task_js_basics/scr1.jpg)
+![](/task_js_basics/scr2.jpg)
+![](/task_js_basics/scr3.jpg)
+![](/task_js_basics/scr4.jpg)
+### Scr 4
+![](/task_js_basics/scr5.jpg)
+</details>
 
 ## Document Object Model
 
 Поправктикувався із DOM.
 
 <details>
-<summary>Scr</summary>
+<summary>Screenshots</summary>
 
-![quiz1](/task_js_dom/scr2.jpg)
-![quiz2](/task_js_dom/scr1.jpg)
+![](/task_js_dom/scr2.jpg)
+![](/task_js_dom/scr1.jpg)
 </details>
 
 ### practice
@@ -108,4 +120,4 @@ Grid зовсім не використовував, але пройшовши G
 [Code base](https://github.com/kirill8210/a-tiny-JS-world)
 
 
-### To be continued
+### To be continued...
