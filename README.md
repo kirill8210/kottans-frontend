@@ -93,7 +93,6 @@ Grid зовсім не використовував, але пройшовши G
 ![](/task_js_basics/scr2.jpg)
 ![](/task_js_basics/scr3.jpg)
 ![](/task_js_basics/scr4.jpg)
-### Scr 4
 ![](/task_js_basics/scr5.jpg)
 </details>
 
@@ -119,5 +118,5 @@ Grid зовсім не використовував, але пройшовши G
 [Demo](https://kirill8210.github.io/a-tiny-JS-world) |
 [Code base](https://github.com/kirill8210/a-tiny-JS-world)
 
-
+<br><br><br>
 ### To be continued...
