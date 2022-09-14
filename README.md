@@ -61,6 +61,12 @@ Grid зовсім не використовував, але пройшовши G
 ![quiz2](/task_responsive_web_design/scr2.png)
 
 
+## HTML & CSS Practice: Hooli-style Popup
+
+### practice
+[Demo](https://kirill8210.github.io/kottans_popup) |
+[Code base](https://github.com/kirill8210/kottans_popup)
+
 ## JS Basics
 
 Закріпив знання Basic JavaScript.
@@ -79,15 +85,25 @@ Grid зовсім не використовував, але пройшовши G
 ![quiz5](/task_js_basics/scr5.jpg)
 
 
-## DOM
+## Document Object Model
 
-Пройшов тему js DOM. Зробив практичне завдання.
+Поправктикувався із DOM.
 
 ### Scr 1
 ![quiz1](/task_js_dom/scr2.jpg)
 ### Scr 2
 ![quiz2](/task_js_dom/scr1.jpg)
 
+### practice
+[Demo](https://kirill8210.github.io/kottans_DOM/) |
+[Code base](https://github.com/kirill8210/kottans_DOM)
+
+
+## Building a Tiny JS World (pre-OOP)
+
+### practice
+[Demo](https://kirill8210.github.io/a-tiny-JS-world) |
+[Code base](https://github.com/kirill8210/a-tiny-JS-world)
 
 
 ### To be continued
